@@ -2,6 +2,7 @@
 
 ## Description
 + This is an example for me to use threading and makefile in C++.
++ `.vscode` folder has some example setting files.
 
 ## Usage
 + To build debug version:
