@@ -3,10 +3,9 @@
         {
             "type": "cppbuild",
             "label": "C/C++: g++ build active file",
-            "command": "/usr/bin/bash",
+            "command": "/usr/bin/make",
             "args": [
-                "-c",
-                "'make clean && make debug'"
+                "debug"
             ],
             "options": {
                 "cwd": "${workspaceFolder}"
